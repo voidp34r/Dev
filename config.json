@@ -1,5 +1,0 @@
-{
-  "GCLOUD_PROJECT": "mrvr-1365",
-  "DATA_BACKEND": "mongodb",
-  "MONGO_URL": "mongodb://104.197.254.149:27017/mydb"
-}
